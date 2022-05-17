@@ -2,7 +2,7 @@ import './App.css';
 import React,{useState} from 'react';
 
 function App() {
-  const [currentInterest,setCurrentSum]=useState(0);
+  
     const [clear,setClear]=useState(false);
     const Calculate=(e)=>{
       e.preventDefault();
