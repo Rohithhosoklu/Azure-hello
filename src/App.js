@@ -29,7 +29,7 @@ function App() {
       <header className="App-header">
         
         <p>
-          Simple Interest Calculator
+          Simple Interest Calculator for me
         </p>
 
         <form>
